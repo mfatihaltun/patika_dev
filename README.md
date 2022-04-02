@@ -1,3 +1,6 @@
 # patika_dev
-Veri Yapıları ve Algoritmalar Dersi 
 www.patika.dev 
+
+Veri Yapıları ve Algoritmalar Dersi 
+(https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar)
+
